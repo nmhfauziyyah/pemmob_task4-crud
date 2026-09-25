@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CRUD Mahasiswa</string>
+
+    <string name="header_title">DATA MAHASISWA</string>
+    <string name="header_subtitle">Sistem Informasi Akademik</string>
+    <string name="label_nrp">NRP</string>
+    <string name="hint_nrp">Masukkan NRP Mahasiswa</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="hint_nama">Masukkan Nama Lengkap</string>
+    <string name="label_angkatan">Angkatan</string>
+    <string name="label_prodi">Program Studi</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_cari">Cari</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="label_status_log">Status Aktivitas</string>
+
+    <string-array name="angkatan_array">
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+    </string-array>
+
+    <string-array name="prodi_array">
+        <item>Teknologi Informasi</item>
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik Komputer</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
